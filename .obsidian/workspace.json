@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cf0a24342f825b54",
+            "id": "ba027ea204d25ce1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.py/1.pandas/0.基础流程.md",
+                "file": "1.py/1.pandas/1.data Structures.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.py/1.pandas/0.基础流程.md",
+                "file": "1.py/1.pandas/1.data Structures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.py/1.pandas/0.基础流程.md",
+                "file": "1.py/1.pandas/1.data Structures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.py/1.pandas/0.基础流程.md"
+                "file": "1.py/1.pandas/1.data Structures.md"
               }
             }
           }
@@ -147,10 +147,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "cf0a24342f825b54",
+  "active": "fa104be86df29f3b",
   "lastOpenFiles": [
-    "0.git/3.分支.md",
     "1.py/1.pandas/0.基础流程.md",
+    "1.py/1.pandas/1.data Structures.md",
+    "0.git/3.分支.md",
     "0.git/2.git基础操作.md",
     "0.git/1.git基础知识.md",
     "0.1筛选的艺术.md",
