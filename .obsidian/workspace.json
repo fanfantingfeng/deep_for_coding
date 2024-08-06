@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.git/3.分支.md",
+                "file": "1.py/1.pandas/0.基础流程.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "453a86d18993fc01",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.git/3.分支.md",
+                "file": "1.py/1.pandas/0.基础流程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.git/3.分支.md",
+                "file": "1.py/1.pandas/0.基础流程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.git/3.分支.md"
+                "file": "1.py/1.pandas/0.基础流程.md"
               }
             }
           }
@@ -146,11 +147,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "cf0a24342f825b54",
+  "active": "fa104be86df29f3b",
   "lastOpenFiles": [
     "0.git/2.git基础操作.md",
     "0.git/1.git基础知识.md",
+    "0.1筛选的艺术.md",
+    "1.py/1.pandas/0.基础流程.md",
+    "1.py/1.pandas",
     "0.git/3.分支.md",
+    "1.py",
     "images/每次提交后HEAD随着分支一起向前移.png",
     "images/不同流向的分支历史.png",
     "images/HEAD指向当前所在分支.png",
