@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.py/1.pandas/1.data Structures.md",
+                "file": "2.基础函数.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.py/1.pandas/1.data Structures.md",
+                "file": "2.基础函数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.py/1.pandas/1.data Structures.md",
+                "file": "2.基础函数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.py/1.pandas/1.data Structures.md"
+                "file": "2.基础函数.md"
               }
             }
           }
@@ -147,10 +147,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fa104be86df29f3b",
+  "active": "ba027ea204d25ce1",
   "lastOpenFiles": [
-    "1.py/1.pandas/0.基础流程.md",
     "1.py/1.pandas/1.data Structures.md",
+    "2.基础函数.md",
+    "1.py/1.pandas/0.基础流程.md",
     "0.git/3.分支.md",
     "0.git/2.git基础操作.md",
     "0.git/1.git基础知识.md",
